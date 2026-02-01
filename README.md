@@ -6,7 +6,7 @@ Este é um projeto simples para estudos, que utiliza dados de filmes e avaliaç�
 
 - **`movies.csv`**: Contém informações sobre os filmes, como título e gêneros.
 - **`ratings.csv`**: Contém avaliações dos usuários para os filmes.
-- **`meu-cacete.ipynb`**: Notebook com o código para análise e geração de recomendações.
+- **`recomendação.ipynb`**: Notebook com o código para análise e geração de recomendações.
 
 ## Funcionalidades
 
@@ -18,7 +18,7 @@ Este é um projeto simples para estudos, que utiliza dados de filmes e avaliaç�
 
 1. Certifique-se de ter o Python instalado.
 2. Instale as dependências necessárias, como o `pandas`.
-3. Abra o arquivo `meu-cacete.ipynb` em um ambiente como o Jupyter Notebook ou VS Code.
+3. Abra o arquivo `recomendação.ipynb` em um ambiente como o Jupyter Notebook ou VS Code.
 4. Execute as células para gerar as recomendações.
 
 ## Licença
